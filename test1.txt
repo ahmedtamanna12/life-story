@@ -6,3 +6,4 @@ I have completed my M.Sc. in 2026
 I have started my full stack web development job in 2026
 I will join at MFile 1st of April
 Logo alignment is centered.
+This text is added from main branch
