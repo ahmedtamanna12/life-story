@@ -6,4 +6,5 @@ I have completed my M.Sc. in 2026
 I have started my full stack web development job in 2026
 I will join at MFile 1st of April
 Logo alignment is centered.
-Nw line is added in feature branch.
+New line is added in feature branch.
+
